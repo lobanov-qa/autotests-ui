@@ -35,6 +35,7 @@ build/
 dist/
 
 
+example/
 browser-state.json
 
 
