@@ -16,8 +16,6 @@ for organizing test code with clear, maintainable scripts.
 
 ## Getting Started
 
-> ⚠️ **Important:** the project tests the educational [UI Course Test Application](https://nikita-filonov.github.io/qa-automation-engineer-ui-course/#/auth/login) platform, which must be running locally.
-
 ### Clone the Repository
 
 To get started, clone the project repository using Git:
