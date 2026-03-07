@@ -30,7 +30,7 @@ jobs:
 
       - name: Run Playwright tests with pytest and generate Allure results
         run: |
-          pytest -m regression --alluredir=allure-results 
+          pytest -m regression --alluredir=allure-results --numprocesses=auto
 
       - name: Restore Coverage history
         uses: actions/cache/restore@v5
